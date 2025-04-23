@@ -1,5 +1,4 @@
-# Force-Forge
-# ForceForge
+
 Fortran BruteForce Tool(ciddiyim.)
 
 # 🔐 ForceForge
